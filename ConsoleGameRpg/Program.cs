@@ -14,7 +14,7 @@ namespace ConsoleGameRpg
             WindowView.InitializeConsole(LevelBuilder.ScreenWidth, LevelBuilder.ScreenHeight, false);
             
             LocalizationModel.InitializeLocalization();
-
+            ///////hkkukuykuy////////
             WindowView.DrawIntro();                   
         }                                 
     }
